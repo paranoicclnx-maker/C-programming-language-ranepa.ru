@@ -2,14 +2,18 @@
 
 # 👤 user_info --display
 
-```text
-          Загрузка профиля... 
-           Статус: Online
-             Сборка: C
+<div align="center">
 
-  ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰
-           ⚡️ 資訊 ⚡️
-  ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰
+# 👤 user_info --display
+
+```text
+           Загрузка профиля... 
+            Статус: Online
+              Сборка: C
+
+   • • • • • • • • • • • • • • • • •
+                  ⚡️ 資訊 ⚡️
+   • • • • • • • • • • • • • • • • •
 
   user:      Maksim
   age:       18
@@ -18,11 +22,10 @@
   field:     Computer Science
   mode:      [ learning • coding • growing ]
 
-  ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰
+   • • • • • • • • • • • • • • • • •
 
   $ sudo subscribe --now
-  [████████████] 100%
-📡 MY CHANNELS // CONNECT
+  [██████████████████] 100%
 ```
 <div align="center">
 
