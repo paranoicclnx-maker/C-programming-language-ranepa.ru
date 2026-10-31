@@ -3,26 +3,25 @@
 # 👤 user_info --display
 
 ```text
-Загрузка профиля... 
-Статус: Online
-Сборка: C
+          Загрузка профиля... 
+           Статус: Online
+             Сборка: C
 
-▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰
-         ⚡️ 資訊 ⚡️
-▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰
+  ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰
+           ⚡️ 資訊 ⚡️
+  ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰
 
-user:      Maksim
-age:       18
-location:  Moscow, RU
-status:    Student @ RANEPA
-field:     Computer Science
-mode:      [ learning • coding • growing ]
+  user:      Maksim
+  age:       18
+  location:  Moscow, RU
+  status:    Student @ RANEPA
+  field:     Computer Science
+  mode:      [ learning • coding • growing ]
 
-▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰
+  ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰
 
-$ sudo subscribe --now
-[████████████████████████████████] 100%
-
+  $ sudo subscribe --now
+  [████████████] 100%
 📡 MY CHANNELS // CONNECT
 ```
 <div align="center">
