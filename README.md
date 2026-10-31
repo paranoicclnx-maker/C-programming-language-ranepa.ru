@@ -1,5 +1,4 @@
 
-# 👤 user_info --display
 <div align="center">
 
 <h1>👤 user_info --display</h1>
