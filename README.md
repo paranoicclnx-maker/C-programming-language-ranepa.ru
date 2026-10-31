@@ -2,26 +2,27 @@
 
 # 👤 user_info --display
 
+```
+ Загрузка профиля...
+Статус: Online
+Сборка: C
 
-    Загрузка профиля...
-    Статус: Online
-    Сборка: C
+• • • • • • • • • • • • • • • • •
+   ⚡️ INFO ⚡️
+• • • • • • • • • • • • • • • • •
 
-        • • • • • • • • • • • • • • • • • • • • • • • • • •
-    ⚡️資訊⚡️
-        • • • • • • • • • • • • • • • • • • • • • • • • • •
+user:      Maksim
+age:       18
+location:  Moscow, RU
+status:    Student @ RANEPA
+field:     Computer Science
+mode:      [ learning • coding ]
 
-    user:      Maksim
-    age:       18
-    location:  Moscow, RU
-    status:    Student @ RANEPA
-    field:     Computer Science
-    mode:      [ learning • coding • growing ]
+• • • • • • • • • • • • • • • • •
 
-        • • • • • • • • • • • • • • • • • • • • • • • • • •
-
-                   $ sudo subscribe --now
-                   [████████████] 100%
+$ sudo subscribe --now
+[████████████] 100%
+```
 <div align="center">
 
 [![Хаб программиста](https://img.shields.io/badge/-Хаб_программиста-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/it_hub_paranoic)
