@@ -2,11 +2,11 @@
 
 # 👤 user_info --display
 
-
+```bio
 Загрузка профиля... 
 Статус: Online
 Сборка: C
-```bio
+
 ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰
 ⚡️ 資訊 ⚡️
 ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰
@@ -22,9 +22,9 @@ mode:      [ learning • coding • growing ]
    📡 MY CHANNELS // CONNECT
 ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰
 
-• Хаб программиста (http://t.me/it_hub_paranoic)
-• Канал личной жизни (http://t.me/paranoicclnx)
-• Ежедневный отчет (http://t.me/build_sh_paranoicclnx) 
+▰ Хаб программиста (http://t.me/it_hub_paranoic)
+▰ Канал личной жизни (http://t.me/paranoicclnx)
+▰ Ежедневный отчет (http://t.me/build_sh_paranoicclnx) 
 
 ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰
 
