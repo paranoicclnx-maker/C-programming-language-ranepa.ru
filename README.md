@@ -1,9 +1,11 @@
-<div align="center">
 
 # 👤 user_info --display
+<div align="center">
 
-```
- Загрузка профиля...
+<h1>👤 user_info --display</h1>
+
+<pre>
+Загрузка профиля...
 Статус: Online
 Сборка: C
 
@@ -22,7 +24,9 @@ mode:      [ learning • coding ]
 
 $ sudo subscribe --now
 [████████████] 100%
-```
+</pre>
+
+</div>
 <div align="center">
 
 [![Хаб программиста](https://img.shields.io/badge/-Хаб_программиста-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/it_hub_paranoic)
