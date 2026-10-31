@@ -2,9 +2,6 @@
 
 # 👤 user_info --display
 
-<div align="center">
-
-# 👤 user_info --display
 
 ```text
            Загрузка профиля... 
