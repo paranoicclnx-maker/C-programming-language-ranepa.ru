@@ -187,6 +187,6 @@ $ sudo subscribe --now
 
 <div align="center">
 
-[![Day 2 01.11.26](https://img.shields.io/badge/-Day_1_31.10.26-2CA5E0?style=for-the-badge)](https://github.com/paranoicclnx-maker/C-programming-language-ranepa.ru/tree/main/ranepa.ru/CI/2nd%20year/BuildLog%232/DevelopmentLog%232)
+[![Day 2 01.11.26](https://img.shields.io/badge/-Day_1_31.10.26-2CA5E0?style=for-the-badge)](https://github.com/paranoicclnx-maker/C-programming-language-ranepa.ru/tree/main/ranepa.ru/CI/2nd%20year/BuildLog%232)
 
 </div>
