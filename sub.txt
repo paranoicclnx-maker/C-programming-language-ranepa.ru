@@ -1,0 +1,2 @@
+#mux-enable: 0
+vless://8bf4478e-e31e-445e-872a-ec7e2ac78e77@48.102.249.16:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.kernel.org&fp=chrome&pbk=yHisV1MBQkR0w8jgFRurTyfvTBmJZSYIDzMCkTD6IWQ&sid=363c9872e1b91cf2&spx=%2F&type=tcp#F3-Family
